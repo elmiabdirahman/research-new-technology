@@ -7,10 +7,10 @@
 -- It replace javascript in some ways. javascript is not suitable for large applications and also it lacks strong typing that means some errors might pop-up at run time.
 
 * What resources did you find most useful in learning? (Provide links & short descriptions)
--- The resourses that I use 
+-- The resourses that I use were from udemy and youtube.
 
 * What did you find most challenging?
-
+--Something I found challenging was that it seems like typescript doesn't recognize let instead it gives me var. Maybe I need to install some new fetures to typescript.
 
 * What would you do/learn next with this technology if you had more time?
 -- I would learn more about the new features it has and how it can make it easy for me when using javascript.
